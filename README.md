@@ -1,4 +1,4 @@
-Este proeto foi desenvolvido como parte do meu aprendizado em Django Framework
+### Este projeto foi desenvolvido como parte do meu aprendizado em Django Framework
 
 
 Página de Início:
