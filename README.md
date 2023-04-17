@@ -1,3 +1,6 @@
+Este proeto foi desenvolvido como parte do meu aprendizado em Django Framework
+
+
 Página de Início:
 ![image](https://user-images.githubusercontent.com/80134011/232579192-d30580ef-6ed4-4e1f-ba3a-f767ad68188a.png)
 
